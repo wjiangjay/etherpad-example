@@ -6,7 +6,7 @@
   "dbSettings" : {
                    "user"    : "OPENSHIFT_MONGODB_DB_USERNAME",
                    "host"    : "OPENSHIFT_MONGODB_DB_HOST",
-                   "port"    : OPENSHIFT_MONGODB_DB_PORT,
+                   "port"    : "OPENSHIFT_MONGODB_DB_PORT",
                    "password": "OPENSHIFT_MONGODB_DB_PASSWORD",
                    "dbname": "OPENSHIFT_APP_NAME"
                  },
